@@ -122,28 +122,11 @@ npm run dev
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with attribution.
-
----
-
 ## 🙌 Acknowledgements
 
 - [Binance WebSocket API](https://binance-docs.github.io/apidocs/spot/en/#websocket-market-streams) – for live market data  
 - [CoinGecko API](https://www.coingecko.com/en/api) – for coin metadata and sparkline data  
 - [SendGrid](https://sendgrid.com/) – for email notifications  
 - [Twilio](https://www.twilio.com/) – for SMS notifications  
-
----
-
-## 📊 Future Improvements
-
-- Add **user authentication** for personalized alert management.
-- Support **multiple coins per alert** and portfolio tracking.
-- Implement **push notifications** for browser and mobile.
-- Enhance **frontend charts** with historical data and advanced analytics.
-- Provide **export/import functionality** for alerts in JSON/CSV format.
 
 ---
